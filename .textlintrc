@@ -1,7 +1,15 @@
 {
   "filters": {},
   "rules": {
-    "preset-ja-spacing": true,
-    "preset-ja-technical-writing": true
+    "preset-ja-spacing": {
+      "ja-no-space-between-full-width": false,
+      "ja-space-between-half-and-full-width": false
+    },
+    "preset-ja-technical-writing": {
+      "max-kanji-continuous-len": {
+          max: 10
+      },
+      "ja-no-mixed-period": false
+    }
   }
 }

@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "resume",
   "scripts": {
-    "lint": "textlint README.md ./docs/*.md",
-    "prepare": "husky install"
+    "lint": "textlint *.md",
+    "build": "md-to-pdf index.md --config-file .pdfconfig.json"
   },
   "repository": "https://github.com/tic40/resume.git",
   "author": "tic40 <ccpzjoh@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "husky": "^7.0.4",
+    "md-to-pdf": "^5.0.1",
     "textlint": "^12.1.0",
     "textlint-rule-preset-ja-spacing": "^2.2.0",
     "textlint-rule-preset-ja-technical-writing": "^7.0.0"
