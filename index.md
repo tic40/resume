@@ -6,10 +6,10 @@
 
 1986年生まれ。東京都在住。
 
-- Twitter https://twitter.com/tic40
-- GitHub https://github.com/tic40
-- Blog https://tic40.hatenablog.com
-- AtCoder https://atcoder.jp/users/tic40
+- Twitter [https://twitter.com/tic40](https://twitter.com/tic40)
+- GitHub [https://github.com/tic40](https://github.com/tic40)
+- Blog [https://tic40.hatenablog.com](https://tic40.hatenablog.com)
+- AtCoder [https://atcoder.jp/users/tic40](https://atcoder.jp/users/tic40)
 
 ## 職務経歴
 
