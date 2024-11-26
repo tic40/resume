@@ -21,3 +21,8 @@ $ yarn build
 ### Release
 
 mainブランチにバージョンタグを打つとGitHub actionsでリリースを自動生成する
+
+```
+$ git tag {tag name}
+$ git push origin {tag name}
+```
