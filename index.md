@@ -33,8 +33,8 @@ DAUの増加やDB負荷増(数万QPS)によるパフォーマンス低下が課�
 - アーキテクチャ改修の計画・実行
 
 [関連記事]
-- note の Aurora MySQL を v2 から v3 へアップグレードしました[https://note.com/tic40/n/n99d9a423ed80](https://note.com/tic40/n/n99d9a423ed80)
-- note の Ruby バージョンを 3.2.2 へアップグレードしました[https://note.com/tic40/n/n5335ddad5934](https://note.com/tic40/n/n5335ddad5934)
+- note の Aurora MySQL を v2 から v3 へアップグレードしました: [https://note.com/tic40/n/n99d9a423ed80](https://note.com/tic40/n/n99d9a423ed80)
+- note の Ruby バージョンを 3.2.2 へアップグレードしました: [https://note.com/tic40/n/n5335ddad5934](https://note.com/tic40/n/n5335ddad5934)
 
 #### 2019 - 2021: プロダクト開発チームリーダー
 
@@ -80,7 +80,7 @@ Skype に依存していたオンライン英会話サービスを、Skype か�
 - PoC開発から社内テスト、先行リリースまでを担当
 
 [関連記事]
-- レアジョブ英会話、Skype®不要のオンライン英会話へ「レッスンルーム」を全会員へ提供開始 [https://www.rarejob.co.jp/news/service/2018/1129/5900/](https://www.rarejob.co.jp/news/service/2018/1129/5900/)
+- レアジョブ英会話、Skype®不要のオンライン英会話へ「レッスンルーム」を全会員へ提供開始: [https://www.rarejob.co.jp/news/service/2018/1129/5900/](https://www.rarejob.co.jp/news/service/2018/1129/5900/)
 
 #### 2016 - 2017: バックエンド API 開発チーム
 
@@ -144,7 +144,7 @@ Skype に依存していたオンライン英会話サービスを、Skype か�
 - 数万QPS環境でのパフォーマンス最適化、スケーラビリティを考慮した設計
 - 計算量やメモリを意識したコーディング
 - クロスボーダー開発・海外経験
-- 他職種経験、会社経営経験
+- 他職種経験、自営業経験
 
 ---
 
