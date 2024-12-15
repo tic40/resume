@@ -6,20 +6,19 @@
 
 ## Usage
 
-### 文章校正
+### Lint
 ```bash
 $ pnpm lint
 ```
 
-### PDF出力
+### Generate PDF
 ```bash
 $ pnpm build
 ```
 
 ### Release
 
-mainブランチにバージョンタグを打つとGitHub actionsでリリースを自動生成する
-
+A release is created when a tag starting with v is pushed.
 ```bash
 $ git tag {tag name}
 $ git push origin {tag name}
