@@ -6,23 +6,21 @@
 
 ## Usage
 
-index.mdが本体
-
 ### 文章校正
-```
-$ yarn lint
+```bash
+$ pnpm lint
 ```
 
 ### PDF出力
-```
-$ yarn build
+```bash
+$ pnpm build
 ```
 
 ### Release
 
 mainブランチにバージョンタグを打つとGitHub actionsでリリースを自動生成する
 
-```
+```bash
 $ git tag {tag name}
 $ git push origin {tag name}
 ```
