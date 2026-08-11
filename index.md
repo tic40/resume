@@ -4,7 +4,7 @@
 
 Taishi Inoue (井上 太志)
 
-ソフトウェアエンジニア/開発経験10年以上/関東在住。
+ソフトウェアエンジニア/開発経験10年以上/東京在住。
 
 - Email: ccpzjoh[at]gmail.com
 - GitHub [https://github.com/tic40](https://github.com/tic40)
@@ -37,8 +37,7 @@ Taishi Inoue (井上 太志)
 - DB 運用: gh-ost によるオンラインスキーママイグレーション
 
 [経験あり]
-- TypeScript, JavaScript, Vue.js, Nuxt.js
-- WebRTC, PHP (LAMP 環境)
+- TypeScript, JavaScript, Vue.js/Nuxt.js, PHP (LAMP 環境)
 
 ---
 
@@ -48,7 +47,7 @@ Taishi Inoue (井上 太志)
 
 - 事業内容: メディアプラットフォーム note と、法人向け高機能プラン note pro の企画・開発・運用
 
-#### 2025 - 現在: サービス安定性チーム / チームリーダー
+#### 2025 - 現在: サービス安定性チーム/チームリーダー
 
 サービス基盤の安定性とスケーラビリティに責任を持つチームのリーダー。
 目標設計から実行までを担い、成長するサービスに運用工数やコストが比例しない構造づくりに取り組み中。
@@ -63,9 +62,8 @@ Taishi Inoue (井上 太志)
 - 設計判断を ADR として蓄積し、AI の判断基準へ還流させる仕組みづくり
 
 [チームとしての成果]
-- 負荷対応
-- ミドルウェアのアップデートと最適化
 - RDS と EC2 の ARM(Graviton)世代への移行
+- Aurora MySQL のメジャーバージョンアップグレード
 - Rails/Ruby の最新バージョン追従
 
 #### 2022 - 2025: サービス安定性チーム
@@ -82,7 +80,7 @@ DAU の増加や DB 負荷の増大(数万 QPS)によるパフォーマンス低
 - note の Aurora MySQL を v2 から v3 へアップグレードしました: [https://note.com/tic40/n/n99d9a423ed80](https://note.com/tic40/n/n99d9a423ed80)
 - note の Ruby バージョンを 3.2.2 へアップグレードしました: [https://note.com/tic40/n/n5335ddad5934](https://note.com/tic40/n/n5335ddad5934)
 
-#### 2019 - 2021: プロダクト開発チーム / チームリーダー
+#### 2019 - 2021: プロダクト開発チーム/チームリーダー
 
 3〜5名規模のプロダクト開発チームのリーダー。チームビルディングとスクラムによる迅速な改善サイクルを推進。
 
