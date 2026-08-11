@@ -4,7 +4,7 @@
 
 Taishi Inoue (井上 太志)
 
-ソフトウェアエンジニア / 開発経験10年以上 / 関東在住。
+ソフトウェアエンジニア/開発経験10年以上/関東在住。
 
 - Email: ccpzjoh[at]gmail.com
 - GitHub [https://github.com/tic40](https://github.com/tic40)
@@ -18,9 +18,9 @@ Taishi Inoue (井上 太志)
 ## できること(副業・スポットのご相談)
 
 - パフォーマンス改善・DB チューニング
-  - 対象規模: 数万 QPS の Rails / MySQL 環境
+  - 対象規模: 数万 QPS の Rails/MySQL 環境
   - スロークエリ調査、インデックス設計、N+1 除去、読み書き分離、キャッシュ設計
-- Rails / Ruby のアップグレードと技術負債返済
+- Rails/Ruby のアップグレードと技術負債返済
 - AI エージェントの開発・運用への組み込み
 
 連絡は Email または X の DM まで。
@@ -31,7 +31,7 @@ Taishi Inoue (井上 太志)
 
 [主軸]
 - 言語・フレームワーク: Ruby, Ruby on Rails
-- データストア: MySQL (Aurora), Redis / Valkey, Elasticsearch
+- データストア: MySQL (Aurora), Redis/Valkey, Elasticsearch
 - インフラ: AWS (EC2, RDS, ElastiCache)
 - 監視・CI: Datadog (APM, Database Monitoring), Sentry, CircleCI
 - DB 運用: gh-ost によるオンラインスキーママイグレーション
@@ -66,7 +66,7 @@ Taishi Inoue (井上 太志)
 - RDS と EC2 の ARM(Graviton)世代への移行
 - Aurora MySQL のメジャーバージョンアップグレード
 - DB アダプタの mysql2 から Trilogy への移行
-- Rails / Ruby の最新バージョン追従
+- Rails/Ruby の最新バージョン追従
 
 #### 2022 - 2025: パフォーマンス最適化チーム
 
@@ -111,7 +111,7 @@ AngularJS 1系で構築されていたフロントエンドを Nuxt.js へ移行
 
 ### [株式会社レアジョブ](https://www.rarejob.co.jp/) (2015/03 - 2018/03)
 
-- 事業内容: リスキリング事業 / 子ども・子育て支援事業
+- 事業内容: リスキリング事業/子ども・子育て支援事業
 
 アプリケーションエンジニアとして入社。オンライン英会話サービス(rarejob.com)の開発に従事。
 
@@ -179,8 +179,8 @@ WebRTC を用いてブラウザ上で動作するビデオチャットアプリ�
 ## その他
 
 [趣味・関心]
-- アルゴリズム / 競技プログラミング
-  - AtCoder Rating 1296 / Highest 1322
+- アルゴリズム/競技プログラミング
+  - AtCoder Rating 1296 (Highest 1322)
 
 [強み]
 - サーバサイドからフロントエンドまでカバーできるスキルセット

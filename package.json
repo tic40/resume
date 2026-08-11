@@ -11,9 +11,9 @@
   "license": "MIT",
   "devDependencies": {
     "husky": "^9.1.7",
-    "md-to-pdf": "^5.2.4",
-    "textlint": "^14.4.0",
-    "textlint-rule-preset-ja-spacing": "^2.4.3",
-    "textlint-rule-preset-ja-technical-writing": "^10.0.1"
+    "md-to-pdf": "^5.2.5",
+    "textlint": "^15.8.0",
+    "textlint-rule-preset-ja-spacing": "^3.0.3",
+    "textlint-rule-preset-ja-technical-writing": "^12.0.2"
   }
 }
