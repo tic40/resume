@@ -2,6 +2,9 @@
   "dest": "./resume.pdf",
   "stylesheet": ["style.css"],
   "body_class": "markdown-body",
+  "launch_options": {
+    "args": ["--no-sandbox"]
+  },
   "pdf_options": {
     "format": "A4",
     "margin": "20mm",
